@@ -1,1 +1,3 @@
-<div class="emmet">Nawet działa</div>
+<div class="emmet">
+    <a href="index.html">Nawet działa</a>
+</div>

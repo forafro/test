@@ -901,4 +901,6 @@ object {
 .last {
     display: block;
     text-decoration: underline;
+    color: #333;
+    font-size: 14px;
 }
